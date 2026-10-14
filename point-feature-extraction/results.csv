@@ -1,0 +1,81 @@
+condition,setting,detector,time_s,matched_points
+rotation,45 deg,BRISK,0.057429,35
+rotation,90 deg,BRISK,0.046397,47
+rotation,0 deg (reference),BRISK,0.048213,496
+rotation,45 deg,FAST,0.064922,25
+rotation,90 deg,FAST,0.060837,118
+rotation,0 deg (reference),FAST,0.067189,483
+rotation,45 deg,Harris,0.057784,3
+rotation,90 deg,Harris,0.055006,31
+rotation,0 deg (reference),Harris,0.063457,498
+rotation,45 deg,KAZE,0.02712,44
+rotation,90 deg,KAZE,0.027696,41
+rotation,0 deg (reference),KAZE,0.026556,500
+rotation,45 deg,MinEigen,0.053279,3
+rotation,90 deg,MinEigen,0.050198,46
+rotation,0 deg (reference),MinEigen,0.05072,500
+rotation,45 deg,MSER,0.029002,140
+rotation,90 deg,MSER,0.031249,193
+rotation,0 deg (reference),MSER,0.029311,463
+rotation,45 deg,ORB,0.06573,41
+rotation,90 deg,ORB,0.064043,41
+rotation,0 deg (reference),ORB,0.05838,500
+rotation,45 deg,SURF,0.039339,142
+rotation,90 deg,SURF,0.03423,327
+rotation,0 deg (reference),SURF,0.044163,500
+noise,median noise,BRISK,0.048426,15
+noise,gaussian noise,BRISK,0.044872,103
+noise,dust and scratch,BRISK,0.041388,13
+noise,median noise,FAST,0.047351,0
+noise,gaussian noise,FAST,0.041478,20
+noise,dust and scratch,FAST,0.04614,1
+noise,median noise,Harris,0.054686,4
+noise,gaussian noise,Harris,0.05249,9
+noise,dust and scratch,Harris,0.05528,2
+noise,median noise,KAZE,0.025917,28
+noise,gaussian noise,KAZE,0.026505,162
+noise,dust and scratch,KAZE,0.027484,49
+noise,median noise,MinEigen,0.054124,2
+noise,gaussian noise,MinEigen,0.051961,3
+noise,dust and scratch,MinEigen,0.050279,3
+noise,median noise,MSER,0.030573,18
+noise,gaussian noise,MSER,0.035674,12
+noise,dust and scratch,MSER,0.037759,14
+noise,median noise,ORB,0.060046,34
+noise,gaussian noise,ORB,0.065243,8
+noise,dust and scratch,ORB,0.066454,34
+noise,median noise,SURF,0.037223,94
+noise,gaussian noise,SURF,0.033108,259
+noise,dust and scratch,SURF,0.038761,94
+scale,120%,BRISK,0.0439,35
+scale,150%,BRISK,0.04487,23
+scale,170%,BRISK,0.049317,19
+scale,190%,BRISK,0.042299,7
+scale,120%,FAST,0.046347,45
+scale,150%,FAST,0.043665,50
+scale,170%,FAST,0.047194,14
+scale,190%,FAST,0.047015,6
+scale,120%,Harris,0.059786,25
+scale,150%,Harris,0.052826,8
+scale,170%,Harris,0.053238,2
+scale,190%,Harris,0.053117,0
+scale,120%,KAZE,0.026761,76
+scale,150%,KAZE,0.028547,23
+scale,170%,KAZE,0.026327,7
+scale,190%,KAZE,0.025562,13
+scale,120%,MinEigen,0.051124,28
+scale,150%,MinEigen,0.049958,5
+scale,170%,MinEigen,0.052885,4
+scale,190%,MinEigen,0.051355,4
+scale,120%,MSER,0.042234,67
+scale,150%,MSER,0.041882,29
+scale,170%,MSER,0.030799,41
+scale,190%,MSER,0.030086,28
+scale,120%,ORB,0.062399,61
+scale,150%,ORB,0.063155,42
+scale,170%,ORB,0.070053,71
+scale,190%,ORB,0.064498,25
+scale,120%,SURF,0.037279,200
+scale,150%,SURF,0.034314,228
+scale,170%,SURF,0.038728,177
+scale,190%,SURF,0.035153,172
